@@ -1,3 +1,10 @@
+## [1.6.3](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.2...v1.6.3) (2021-10-21)
+
+
+### Bug Fixes
+
+* added a new event ([2b30ad3](https://github.com/darkmatter18/darkmatter18-testing/commit/2b30ad3c368c5da742af41fa5c7fe8a54fd35070))
+
 ## [1.6.2](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.1...v1.6.2) (2021-10-21)
 
 
