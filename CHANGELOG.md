@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.4.0...v1.5.0) (2021-10-21)
+
+
+### Features
+
+* docs action are added ([cc1decd](https://github.com/darkmatter18/darkmatter18-testing/commit/cc1decdab1731f79d90dd10e53dad5bff2bd0142))
+
 # [1.4.0](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.3.0...v1.4.0) (2021-10-19)
 
 
