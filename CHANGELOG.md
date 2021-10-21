@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.0...v1.6.1) (2021-10-21)
+
+
+### Bug Fixes
+
+* message is updated ([cfbc015](https://github.com/darkmatter18/darkmatter18-testing/commit/cfbc0150fe62f306f1ea4b3597c03654a93cd348))
+
 # [1.6.0](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.5.0...v1.6.0) (2021-10-21)
 
 
