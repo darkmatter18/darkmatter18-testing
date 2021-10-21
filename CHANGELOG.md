@@ -1,3 +1,10 @@
+## [1.6.2](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.1...v1.6.2) (2021-10-21)
+
+
+### Bug Fixes
+
+* try to add something new ([b30dc46](https://github.com/darkmatter18/darkmatter18-testing/commit/b30dc4619e59ed3714a84bfaaf86be3a7d614914))
+
 ## [1.6.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.0...v1.6.1) (2021-10-21)
 
 
