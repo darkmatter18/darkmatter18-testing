@@ -1,0 +1,37 @@
+on:
+  release:
+    types:
+      - published
+
+name: Release
+
+jobs:
+  release-docs:
+    name: Release Docs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generating USER
+        run: |
+          git fetch origin gh-pages --depth=1
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Tag viewing
+        run: |
+          echo ${{ github.event.release.tag_name }}
+          echo ${{ github.event.release.prerelease }}
+
+      - name: Install dependency
+        run: |
+          pip install mkdocs-material
+          pip install mike
+      - name: Deploying docs
+        run: mike deploy --push --update-aliases ${{ github.event.release.tag_name }} latest
