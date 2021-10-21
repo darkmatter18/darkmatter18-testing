@@ -1,1 +1,1 @@
-# Hello from DOCS from D
+# Hello world
