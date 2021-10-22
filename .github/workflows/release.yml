@@ -22,37 +22,32 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
+  
+  release-docs:
+    name: Release Docs
+    runs-on: ubuntu-latest
+    needs: [release]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generating USER
+        run: |
+          git fetch origin gh-pages --depth=1
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
       - name: Get latest Tag
         run: git describe --tags --abbrev=0
-  
-  # release-docs:
-  #   name: Release Docs
-  #   runs-on: ubuntu-latest
-  #   needs: [release]
 
-  #   steps:
-  #     - name: Checkout
-  #       uses: actions/checkout@v2
-
-  #     - name: Generating USER
-  #       run: |
-  #         git fetch origin gh-pages --depth=1
-  #         git config user.name github-actions
-  #         git config user.email github-actions@github.com
-  #     - name: Setup Python
-  #       uses: actions/setup-python@v2
-  #       with:
-  #         python-version: 3.x
-
-  #     - name: Tag viewing
-  #       run: |
-  #         echo ${{ github.event.release.tag_name }}
-  #         echo ${{ github.event.release.prerelease }}
-  #         echo ${{ github.event }}
-
-      # - name: Install dependency
-      #   run: |
-      #     pip install mkdocs-material
-      #     pip install mike
+      - name: Install dependency
+        run: |
+          pip install mkdocs-material
+          pip install mike
       # - name: Deploying docs
       #   run: mike deploy --push --update-aliases ${{ github.event.release.tag_name }} latest
