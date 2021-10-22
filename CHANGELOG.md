@@ -1,3 +1,10 @@
+## [1.6.6](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.5...v1.6.6) (2021-10-22)
+
+
+### Bug Fixes
+
+* try to fix the git commit ([d9a70a2](https://github.com/darkmatter18/darkmatter18-testing/commit/d9a70a29a6137d15cf26f279c3738fa5663cd7b9))
+
 ## [1.6.5](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.4...v1.6.5) (2021-10-22)
 
 
