@@ -1,3 +1,10 @@
+## [1.6.4](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.3...v1.6.4) (2021-10-22)
+
+
+### Bug Fixes
+
+* added the git describe to get latest tag ([c97cd85](https://github.com/darkmatter18/darkmatter18-testing/commit/c97cd855db428f780ce68609dcb91838b91368ce))
+
 ## [1.6.3](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.2...v1.6.3) (2021-10-21)
 
 
