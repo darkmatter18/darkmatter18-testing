@@ -1,3 +1,10 @@
+## [1.11.2](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.11.1...v1.11.2) (2021-10-23)
+
+
+### Bug Fixes
+
+* Added new message ([c3097ed](https://github.com/darkmatter18/darkmatter18-testing/commit/c3097edaeeb1428ab8ecaf39c565d444ad17f5c2))
+
 ## [1.11.2-beta.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.11.1...v1.11.2-beta.1) (2021-10-23)
 
 
