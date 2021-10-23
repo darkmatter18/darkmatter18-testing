@@ -26,7 +26,7 @@ jobs:
       - name: Get latest Tag
         run: |
           git describe --tags --abbrev=0
-          echo {{ github.ref }}
+          echo ${{ github.ref == 'refs/heads/master' }}
       
   
   # release-docs:
