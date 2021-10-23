@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.9...v1.7.0) (2021-10-23)
+
+
+### Features
+
+* Get tag is updated ([e23ef60](https://github.com/darkmatter18/darkmatter18-testing/commit/e23ef6024a047af9a70bef3942b9007b1df35cc6))
+
 ## [1.6.9](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.8...v1.6.9) (2021-10-23)
 
 
