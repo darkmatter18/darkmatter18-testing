@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.9.0...v1.9.1) (2021-10-23)
+
+
+### Bug Fixes
+
+* updated teh law of deployment ([c42e7f5](https://github.com/darkmatter18/darkmatter18-testing/commit/c42e7f53564c8d85f09f217bb46f2070f07f1606))
+
 # [1.9.0](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.8.1...v1.9.0) (2021-10-23)
 
 
