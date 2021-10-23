@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.10.2...v1.11.0) (2021-10-23)
+
+
+### Features
+
+* Added new message ([05ca5d3](https://github.com/darkmatter18/darkmatter18-testing/commit/05ca5d368dca134192e70e47fa1e4f33820d6c6d))
+
 ## [1.10.2](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.10.1...v1.10.2) (2021-10-23)
 
 
