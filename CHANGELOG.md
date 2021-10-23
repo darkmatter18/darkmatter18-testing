@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.7.0...v1.7.1) (2021-10-23)
+
+
+### Bug Fixes
+
+* bad substitution ([740654d](https://github.com/darkmatter18/darkmatter18-testing/commit/740654dfb078ce0e6fabf9a54b0a835d06d1e66d))
+
 # [1.7.0](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.9...v1.7.0) (2021-10-23)
 
 
