@@ -4,6 +4,7 @@ copyright:  Copyright &copy; 2020 - 2021 Darkmatter18
 
 theme:
   name: 'material'
+    custom_dir: docs/overrides/
 
 nav:
   - Introduction: 'index.md'
