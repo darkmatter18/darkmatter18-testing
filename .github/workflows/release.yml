@@ -60,14 +60,12 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      
-      - name: Get variables
-        run: |
-          echo ${{ github.ref == 'refs/heads/master' }}
 
       - name: Install dependency
         run: |
           pip install mkdocs-material
           pip install mike
+
       - name: Deploying docs
         run: mike deploy --push --update-aliases ${{needs.release.outputs.tag}} latest
+        if: ${{ github.ref == 'refs/heads/master' }}
