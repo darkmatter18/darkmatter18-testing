@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.8.0...v1.8.1) (2021-10-23)
+
+
+### Bug Fixes
+
+* updated the docs version tag ([e05ce5c](https://github.com/darkmatter18/darkmatter18-testing/commit/e05ce5ce3a5d2972b2f20c373c2bfe24217a8803))
+
 # [1.8.0](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.7.2...v1.8.0) (2021-10-23)
 
 
