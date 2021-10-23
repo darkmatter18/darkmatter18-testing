@@ -1,3 +1,10 @@
+## [1.7.2](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.7.1...v1.7.2) (2021-10-23)
+
+
+### Bug Fixes
+
+* command of run ([49ebed9](https://github.com/darkmatter18/darkmatter18-testing/commit/49ebed9e4824316aeca4b4318e3569e304d4eae8))
+
 ## [1.7.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.7.0...v1.7.1) (2021-10-23)
 
 
