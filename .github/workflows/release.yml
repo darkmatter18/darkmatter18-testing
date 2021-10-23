@@ -1,7 +1,15 @@
 name: Release
 on:
-  push
-
+  push:
+    branches:
+      - main
+      - next
+      - beta
+  pull_request:
+    branches:
+      - main
+      - next
+      - beta
 jobs:
   release:
     name: Release
