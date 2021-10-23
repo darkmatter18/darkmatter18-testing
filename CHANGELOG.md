@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.9.1...v1.10.0) (2021-10-23)
+
+
+### Features
+
+* updated the docs and added main.html ([89bb8b0](https://github.com/darkmatter18/darkmatter18-testing/commit/89bb8b04bfa795f3b6443d37e1236dd184c9bc90))
+
 ## [1.9.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.9.0...v1.9.1) (2021-10-23)
 
 
