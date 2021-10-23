@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.8.1...v1.9.0) (2021-10-23)
+
+
+### Bug Fixes
+
+* MAin to master ([fb905f7](https://github.com/darkmatter18/darkmatter18-testing/commit/fb905f7404e1ccf68d8834a5c347e29976014e8a))
+
+
+### Features
+
+* updated the fix operation ([94d93f3](https://github.com/darkmatter18/darkmatter18-testing/commit/94d93f349fb6ebb93b062e210b870b6415d14bb5))
+
 ## [1.8.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.8.0...v1.8.1) (2021-10-23)
 
 
