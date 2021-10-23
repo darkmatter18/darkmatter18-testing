@@ -67,5 +67,11 @@ jobs:
           pip install mike
 
       - name: Deploying docs
-        run: mike deploy --push --update-aliases ${{needs.release.outputs.tag}} latest
+        run: |
+          mike deploy --push --update-aliases ${{needs.release.outputs.tag}} latest
+          mike set-default --push latest
         if: ${{ github.ref == 'refs/heads/master' }}
+      
+      - name: Deploying docs
+        run: mike deploy --push  ${{needs.release.outputs.tag}}
+        if: ${{ github.ref != 'refs/heads/master' }}
