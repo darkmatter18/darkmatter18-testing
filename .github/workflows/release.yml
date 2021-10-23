@@ -28,7 +28,7 @@ jobs:
       - name: Get latest Tag
         id: tag
         run: |
-          run: echo "::set-output name=tag::${git describe --tags --abbrev=0}"
+          run: echo "::set-output name=tag::$(git describe --tags --abbrev=0)"
       
   
   release-docs:
