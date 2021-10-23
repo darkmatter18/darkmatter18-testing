@@ -1,3 +1,10 @@
+## [1.11.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.11.0...v1.11.1) (2021-10-23)
+
+
+### Bug Fixes
+
+* added a new deploy message ([8a001b1](https://github.com/darkmatter18/darkmatter18-testing/commit/8a001b18ff395ce09d948f3e59c809d37b4865ff))
+
 # [1.11.0](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.10.2...v1.11.0) (2021-10-23)
 
 
