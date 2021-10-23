@@ -2,12 +2,12 @@ name: Release
 on:
   push:
     branches:
-      - main
+      - master
       - next
       - beta
   pull_request:
     branches:
-      - main
+      - master
       - next
       - beta
 jobs:
