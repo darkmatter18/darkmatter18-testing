@@ -1,3 +1,10 @@
+## [1.10.2](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.10.1...v1.10.2) (2021-10-23)
+
+
+### Bug Fixes
+
+* theme ([87012d1](https://github.com/darkmatter18/darkmatter18-testing/commit/87012d1117db80626771348e8dc168273e8e3d02))
+
 ## [1.10.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.10.0...v1.10.1) (2021-10-23)
 
 
