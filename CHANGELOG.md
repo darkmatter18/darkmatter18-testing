@@ -1,3 +1,10 @@
+## [1.6.7](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.6...v1.6.7) (2021-10-23)
+
+
+### Bug Fixes
+
+* debug statement updated ([412edd5](https://github.com/darkmatter18/darkmatter18-testing/commit/412edd5bc1a68229405328e754eea0cb0e8db86e))
+
 ## [1.6.6](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.5...v1.6.6) (2021-10-22)
 
 
