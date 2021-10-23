@@ -1,3 +1,10 @@
+## [1.6.9](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.8...v1.6.9) (2021-10-23)
+
+
+### Bug Fixes
+
+* updated the index.md ([890d6d6](https://github.com/darkmatter18/darkmatter18-testing/commit/890d6d6718f86fcf3bb6d9526b533f0db8e23da7))
+
 ## [1.6.9-beta.1](https://github.com/darkmatter18/darkmatter18-testing/compare/v1.6.8...v1.6.9-beta.1) (2021-10-23)
 
 
